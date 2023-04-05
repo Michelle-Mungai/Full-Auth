@@ -120,6 +120,9 @@ button:hover{
 	margin-left: 180px;
 	margin-top: 20px;
 }
+.forgot #forgot-link{
+	text-decoration: none;
+}
 .signin{
 	font-family: inherit;
 	margin-top: 40px;
